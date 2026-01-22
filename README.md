@@ -1,6 +1,8 @@
 # Assignment_1-python-program
 Name: Akinsola Oluwasemilore Inioluwa
+
 Matric Number: 24/14063
+
 Department: Computer Science
 
 1. Requirement Analysis
